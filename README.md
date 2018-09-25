@@ -8,7 +8,7 @@ For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
 <br>
 Sreenshots<br>
-<img src="https://user-images.githubusercontent.com/24698014/46013045-a2bc5f80-c0e8-11e8-800e-64258b915423.gif" align="center" width="280" height="500">
+<img src="https://user-images.githubusercontent.com/24698014/46013045-a2bc5f80-c0e8-11e8-800e-64258b915423.gif" width="280" height="500">
 <img src="https://user-images.githubusercontent.com/24698014/46005830-c75a0c80-c0d3-11e8-82c8-a851f4483aa0.png" width="280" height="500">
 <img src="https://user-images.githubusercontent.com/24698014/46005839-ccb75700-c0d3-11e8-8452-80a631bdac8d.png" width="280" height="500">
 <br>
